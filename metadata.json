@@ -1,0 +1,6 @@
+{
+  "name": "AI Game Automation Studio",
+  "description": "A professional gaming platform where you can play and build automation scripts or AI models (ChatGPT, DeepSeek, Gemini inspired) to automate gameplay inside web-based HTML games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
